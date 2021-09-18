@@ -23,7 +23,7 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Good Coffee",
+      title: "Buen Cafe",
       debugShowCheckedModeBanner: false,
       builder: (context,child){
         responsiveApp=ResponsiveApp(context);
